@@ -1,5 +1,5 @@
 # oop
-<strong>Programmeerimisvahendite kasutamine</strong>
+<strong>Programmeerimisvahendite kasutamine</strong></br>
 Antud rakendus on koostatud "Programmeerimisvahendite kasutamine" aine raames ja on mõeldud MVC mudeli õpimiseks ning PHP oskuste kinnitamiseks ja laiendamiseks OOP osas
 
 Alustamiseks
